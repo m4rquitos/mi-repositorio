@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body{
+    background-color: rgb(6, 163, 92);
+    padding: 0;
+    margin: 0;
+    font-family: 'julee', cursive;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: auto;
+    align-items: center;
+}
+.container  .titulos{
+    color: rgb(35, 3, 17);
+    font-size: 4rem;
+}
+.container  .parrafos{
+    color: rgb(32, 26, 26);
+    width: 900px;
+    font-size: 1.7rem;
+}  
