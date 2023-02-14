@@ -20,4 +20,11 @@ body{
     color: rgb(32, 26, 26);
     width: 900px;
     font-size: 1.7rem;
-}  
+} 
+.container img{
+    width: 500px;
+    border-radius: 40PX;
+    border: 1.5px solid yellow;
+    box-shadow: 0 0 15px rgb(136, 83, 185);
+
+}
